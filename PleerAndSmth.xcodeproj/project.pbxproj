@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		954763822873A3D2004234E5 /* SegmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954763812873A3D2004234E5 /* SegmentViewController.swift */; };
 		95AEBF1128559E6900F9C6A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95AEBF1028559E6900F9C6A0 /* AppDelegate.swift */; };
 		95AEBF1328559E6900F9C6A0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95AEBF1228559E6900F9C6A0 /* SceneDelegate.swift */; };
 		95AEBF1A28559E7600F9C6A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95AEBF1928559E7600F9C6A0 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		954763812873A3D2004234E5 /* SegmentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentViewController.swift; sourceTree = "<group>"; };
 		95AEBF0D28559E6900F9C6A0 /* PleerAndSmth.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PleerAndSmth.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95AEBF1028559E6900F9C6A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		95AEBF1228559E6900F9C6A0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				95AEBF1E28559E7600F9C6A0 /* Info.plist */,
 				95AEBF2428559EDA00F9C6A0 /* bobMoses.mp3 */,
 				95AEBF2628559F0C00F9C6A0 /* PleerViewController.swift */,
+				954763812873A3D2004234E5 /* SegmentViewController.swift */,
 			);
 			path = PleerAndSmth;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				95AEBF1128559E6900F9C6A0 /* AppDelegate.swift in Sources */,
 				95AEBF1328559E6900F9C6A0 /* SceneDelegate.swift in Sources */,
+				954763822873A3D2004234E5 /* SegmentViewController.swift in Sources */,
 				95AEBF2728559F0C00F9C6A0 /* PleerViewController.swift in Sources */,
 				95AEBF2928559F9900F9C6A0 /* TabBarControllerBuilder.swift in Sources */,
 			);
